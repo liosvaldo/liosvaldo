@@ -1,4 +1,4 @@
-## Oii! Eu sou o Liosvaldo Santiago, graduando de engenharia de controle e automação e amante de ciência de dados
+## Oii! Eu sou o Liosvaldo Santiago
 
 <div align="center">
   <a href="https://github.com/liosvaldo">
